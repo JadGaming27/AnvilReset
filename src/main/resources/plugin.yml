@@ -1,0 +1,14 @@
+name: AnvilReset
+version: '1.0'
+main: com.JadGameDev27.anvilReset.AnvilReset
+api-version: '1.21'
+commands:
+  anvilresetitem:
+    description: Resets item repair cost
+    usage: /<command>
+    permission: anvilReset.AnvilResetItem
+
+permissions:
+  anvilReset.AnvilResetItem:
+    description: Allows reset item repair cost command
+    default: true
