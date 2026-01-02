@@ -2,7 +2,7 @@
 A SpigotMC Plugin for resetting item's repair costs
 
 Usage :
-- `/anvilresetitem` Resets Item Repair Coost
+- `/anvilresetitem` Resets Item Repair Cost
 
 Before :
 
