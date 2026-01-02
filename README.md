@@ -5,8 +5,11 @@ Usage :
 - `/anvilresetitem` Resets Item Repair Coost
 
 Before :
+
 ![Item Before Reset](./2026-01-02_21.10.14.png)
+
 After `/anvilresetitem` 
+
 ![Item After Reset](./2026-01-02_21.10.592.png)
 ![Item After Reset](./2026-01-02_21.10.59.png)
 
